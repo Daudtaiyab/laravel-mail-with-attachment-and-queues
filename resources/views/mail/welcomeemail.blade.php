@@ -26,7 +26,7 @@
                     <!-- Body -->
                     <tr>
                         <td style="padding:30px; color:#374151; font-size:16px; line-height:1.6;">
-                            <p>Hi {{ Auth::user()->name }},</p>
+                            <p>Hi LaraDev,</p>
 
                             <p>We’re excited to have you join <strong>{{ config('app.name') }}</strong>!
                                 Your account has been successfully created and you’re all set to get started.</p>
